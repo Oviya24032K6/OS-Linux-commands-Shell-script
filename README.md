@@ -1188,8 +1188,8 @@ echo "Hello $name, welcome to my program. “
 $ chmod 755 exread1.sh 
 
 ## OUTPUT
-Enter your name: sanju
-Hello sanju, welcome to my program.
+![image](https://github.com/04Varsha/OS-Linux-commands-Shell-script/assets/147139999/ca6a7723-8506-499a-8de7-f04fedbe58d8)
+
 
 
 
